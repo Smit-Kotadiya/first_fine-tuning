@@ -1,0 +1,77 @@
+### **Präsentationsvorschlag: "Generative KI und Ethik"**  
+
+#### **Folie 1: Titel**  
+**Generative KI und Ethik**  
+*Chancen, Risiken und moralische Herausforderungen*  
+
+---
+
+#### **Folie 2: Einführung – Was ist Generative KI?**  
+- KI-Modelle, die neue Inhalte erstellen (Texte, Bilder, Musik etc.)  
+- Beispiele: ChatGPT, DALL·E, Midjourney  
+- Training auf riesigen Datenmengen  
+- Anwendung in Kunst, Wissenschaft, Wirtschaft  
+
+---
+
+#### **Folie 3: Chancen von Generativer KI**  
+- Kreativitätsunterstützung für Künstler & Designer  
+- Effizienzsteigerung in Unternehmen (z. B. Automatisierung)  
+- Barrierefreier Zugang zu Wissen und Kommunikation  
+- Unterstützung in der medizinischen Forschung  
+
+---
+
+#### **Folie 4: Ethische Herausforderungen – Überblick**  
+- Verzerrung und Diskriminierung (Bias)  
+- Urheberrecht und geistiges Eigentum  
+- Wahrheit vs. Desinformation  
+- Auswirkungen auf den Arbeitsmarkt  
+
+---
+
+#### **Folie 5: Verzerrung und Diskriminierung**  
+- KI übernimmt Vorurteile aus Trainingsdaten  
+- Verstärkung bestehender gesellschaftlicher Ungleichheiten  
+- Beispiel: Diskriminierende Bild- oder Sprachgenerierung  
+- Lösungsansätze: Diversität in den Trainingsdaten, bessere Algorithmen  
+
+---
+
+#### **Folie 6: Urheberrecht und geistiges Eigentum**  
+- KI nutzt vorhandene Werke – wem gehören die Ergebnisse?  
+- Künstler und Autoren vs. KI-generierte Inhalte  
+- Rechtslage ist uneindeutig, laufende Debatten und Prozesse  
+- Transparenz und Kennzeichnung von KI-generierten Inhalten  
+
+---
+
+#### **Folie 7: Wahrheit vs. Desinformation**  
+- Deepfakes und Fake News leicht erstellbar  
+- Vertrauen in Medien und Wissenschaft gefährdet  
+- Notwendigkeit von KI-Detektoren und Fact-Checking  
+- Verantwortung von Plattformen und Nutzern  
+
+---
+
+#### **Folie 8: Auswirkungen auf den Arbeitsmarkt**  
+- Automatisierung kreativer Berufe – Jobverluste?  
+- Neue Chancen durch KI-gestützte Arbeit  
+- Bedeutung von Weiterbildung und Anpassung  
+- Regulierung und sozialer Ausgleich nötig  
+
+---
+
+#### **Folie 9: Ethische Leitlinien & Regulierung**  
+- Klare Richtlinien für verantwortungsvollen KI-Einsatz  
+- Transparenz & Erklärbarkeit von KI-Entscheidungen  
+- Internationale Initiativen und gesetzliche Regelungen  
+- Balance zwischen Innovation und Kontrolle  
+
+---
+
+#### **Folie 10: Fazit & Diskussion**  
+- Generative KI bietet große Chancen, aber auch Risiken  
+- Ethische Fragen müssen frühzeitig berücksichtigt werden  
+- Verantwortung von Entwicklern, Politik, Gesellschaft  
+- **Offene Frage an das Publikum:** Wo sollten wir Grenzen setzen?

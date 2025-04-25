@@ -1,0 +1,95 @@
+**Präsentation: Cyber Security im Zeitalter der KI**  
+
+---
+
+### **Folie 1: Titelblatt**  
+**Cyber Security im Zeitalter der KI**  
+– Prof. [Name]  
+– [Datum, Veranstaltung]  
+_Bild: Symbolische Darstellung von KI & Cyber Security (z. B. ein Gehirn aus Datenströmen mit einem Schloss)_  
+
+---
+
+### **Folie 2: Agenda**  
+1. Einführung: Was ist Cyber Security?  
+2. Wie verändert KI die Bedrohungslage?  
+3. KI als Werkzeug für Cyberkriminelle  
+4. KI zur Verteidigung: Chancen und Grenzen  
+5. Deepfakes, Social Engineering und Desinformation  
+6. Automatisierte Angriffe und Malware  
+7. Datenschutz und ethische Herausforderungen  
+8. Zukunftsausblick: KI und Sicherheit im Gleichgewicht  
+9. Handlungsempfehlungen für Unternehmen und Nutzer  
+10. Fazit und Diskussion  
+
+---
+
+### **Folie 3: Einführung – Was ist Cyber Security?**  
+- Schutz von Daten, Netzwerken und Systemen vor Angriffen  
+- Gefahren: Hacking, Malware, Identitätsdiebstahl, Datenlecks  
+- Neue Herausforderung: Künstliche Intelligenz (KI) als Gamechanger  
+
+_Bild: Schaubild mit klassischen Cyber-Bedrohungen (z. B. Hacker, Phishing, Viren)_  
+
+---
+
+### **Folie 4: Wie verändert KI die Bedrohungslage?**  
+- KI kann Angriffe schneller und präziser machen  
+- Automatisierte Schwachstellenanalyse für Hacker  
+- Falschinformationen und Deepfakes als neue Gefahr  
+- KI kann Sicherheitssysteme austricksen (z. B. Captchas umgehen)  
+
+---
+
+### **Folie 5: KI als Werkzeug für Cyberkriminelle**  
+- KI-generierte Phishing-Mails – täuschend echt  
+- Deepfake-Stimmen für Social Engineering-Angriffe  
+- Malware, die sich anpasst und traditionelle Schutzmaßnahmen umgeht  
+- Angriffe auf KI-Systeme selbst: Manipulation von Trainingsdaten  
+
+_Bild: Beispiel für eine gefälschte E-Mail, die durch KI verbessert wurde_  
+
+---
+
+### **Folie 6: KI zur Verteidigung – Chancen und Grenzen**  
+- KI-gestützte Erkennung von Bedrohungen in Echtzeit  
+- Mustererkennung für verdächtige Aktivitäten  
+- Automatisierte Reaktion auf Angriffe  
+- Problem: KI kann auch getäuscht oder manipuliert werden  
+
+---
+
+### **Folie 7: Deepfakes, Social Engineering und Desinformation**  
+- Deepfakes als Werkzeug für Betrug und Rufschädigung  
+- Manipulation von öffentlichen Meinungen durch KI-generierte Inhalte  
+- Kombination aus KI und Social Engineering für gezielte Angriffe  
+- Wie erkennt man Deepfakes?  
+
+_Bild: Vergleich echtes vs. gefälschtes Bild/Video_  
+
+---
+
+### **Folie 8: Automatisierte Angriffe und Malware**  
+- Selbstlernende Schadsoftware: Evolution in Echtzeit  
+- KI-gesteuerte Botnets für massenhafte Angriffe  
+- KI gegen KI: Wer gewinnt das Wettrüsten?  
+
+---
+
+### **Folie 9: Datenschutz und ethische Herausforderungen**  
+- KI-basierte Überwachung vs. Privatsphäre  
+- Wer kontrolliert die KI-Modelle?  
+- Ethik in der Cyber Security: Schutz oder Überwachung?  
+- Transparenz und Regulierung als Schlüssel  
+
+---
+
+### **Folie 10: Zukunftsausblick & Handlungsempfehlungen**  
+- KI bleibt – Sicherheitsstrategien müssen sich anpassen  
+- Mensch-KI-Kombination als beste Verteidigung  
+- Stärkung der Cyber-Resilienz durch Aufklärung  
+- Forschung und Regulierung: Balance zwischen Sicherheit und Innovation  
+
+_Bild: Zukunftsvision – Mensch und KI arbeiten zusammen zur Cybersicherheit_  
+
+---
